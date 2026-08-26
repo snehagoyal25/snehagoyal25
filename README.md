@@ -1,16 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Sneha Goyal</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | React Enthusiast | Lifelong Learner</h3>
+<h3 align="center">intern@Deloitte | Lifelong Learner</h3>
 
 ---
 
 ### 🚀 About Me
 
-I'm a dedicated and passionate BTech student actively working towards becoming a **Full Stack Web Developer**. I enjoy crafting interactive, user-friendly web experiences and currently focus on mastering **React**. I believe in continuous learning, hands-on practice, and building real-world projects that solve real problems.
-
-- 💻 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🌱 Expanding knowledge in: **TypeScript**, **REST APIs**, and backend development
-- 🛠️ Focused on writing clean, scalable, and maintainable code
-- 🎯 Goal: To contribute to meaningful projects and join a team where I can grow as a developer
+I'm a Management Trainee at Deloitte, soon to be a full time engineer :)
+I believe in continuous learning, hands-on practice, and building real-world projects that solve real problems.
 
 ---
 
@@ -37,14 +33,6 @@ I'm a dedicated and passionate BTech student actively working towards becoming a
 
 ---
 
-### 🌟 Projects & Interests
-
-- 🚧 Currently building: A personal portfolio and mini web apps with React  
-- 🏆 Participated in national-level hackathons, focused on user-centered design  
-- 📘 Interested in UI/UX, web animations, and full-stack architecture  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -57,8 +45,7 @@ I'm a dedicated and passionate BTech student actively working towards becoming a
 
 ### 📫 Let's Connect
 
-- ✉️ Email: [goyalsneha995@gmail.com](mailto:goyalsneha995@gmail.com)
-- 🌐 Portfolio: *Coming Soon*
+- ✉️ Gmail: [goyalsneha995@gmail.com](mailto:goyalsneha995@gmail.com)
 - 💬 LinkedIn: [Sneha Goyal](https://www.linkedin.com/in/sneha-goyal-671605251/)
 
 ---
